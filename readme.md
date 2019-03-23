@@ -9,3 +9,5 @@
 - ### [Royal Rumble 2019](2019/WWE-Royal-Rumble-2019/readme.md)
 
 - ### [WWE TLC 2018](2018/WWE-TLC-2018/readme.md) 
+
+- ### [WWE Survivor Series 2018](2018/WWE-Survivor-Series-2018/readme.md) 
