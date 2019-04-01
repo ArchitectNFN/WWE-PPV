@@ -15,3 +15,5 @@
 - ### [WWE Crown Jewel](2018/WWE-Crown-Jewel/readme.md)
 
 - ### [WWE Evolution](2018/WWE-Evolution/readme.md)
+
+- ### [WWE Super Show-Down](2018/WWE-Super-Show-Down/readme.md)
